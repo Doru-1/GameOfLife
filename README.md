@@ -28,3 +28,11 @@ Programul este structurat în mai multe task-uri:
 
 ```bash
 gcc main.c task1.c task2.c task3.c common.c
+```
+
+sau
+
+```bash
+./makefile.sh
+```
+
